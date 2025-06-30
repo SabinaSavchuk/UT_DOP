@@ -45,5 +45,4 @@
   </languages>
   <roles>Role.МДК_ОсновнаяРоль</roles>
   <commonModules>CommonModule.МодификацияКонфигурацииПереопределяемый</commonModules>
-  <documents>Document.РеализацияТоваровУслуг</documents>
 </mdclass:Configuration>
